@@ -2,50 +2,62 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_027_Athena_Commando_F"
+            "AthenaGlider:Umbrella_Season_05"
         ],
-        "price": 1200
+        "price": 200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_224_Butterfly"
+            "AthenaDance:EID_UkuleleTime"
         ],
         "price": 500
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_KEagle"
+            "AthenaItemWrap:Wrap_085_Beach"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Everytime"
-        ],
-        "price": 700
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
-        ],
-        "price": 800
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaGlider:Glider_ID_118_Squishy"
+            "AthenaContrail:Trails_ID_063_BeachBalls"
         ],
         "price": 300
     },
+    "daily5": {
+        "itemGrants": [
+            "AthenaDance:EID_AfroHouse"
+        ],
+        "price": 500
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_014_WinterCamo"
+        ],
+        "price": 500
+    },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_547_Athena_Commando_F_Meteorwoman"
+            "AthenaCharacter:CID_460_Athena_Commando_F_BriteBomberSummer"
         ],
         "price": 2500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:EID_LetsBegin_Beyond"
+            "AthenaCharacter:CID_461_Athena_Commando_M_DriftSummer"
         ],
-        "price": 2000
+        "price": 1200
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaBackPack:BID_304_Duck"
+        ],
+        "price": 0
+    },
+    "featured4": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_073_Balloon"
+        ],
+        "price": 800
     }
 }
