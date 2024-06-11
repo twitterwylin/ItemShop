@@ -1,12 +1,12 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+CID_460_Athena_Commando_F_BriteBomberSummer, 1200
+CID_461_Athena_Commando_M_DriftSummer, 1200
+BID_304_Duck, 0
+Pickaxe_ID_073_Balloon, 800
 na
 na
-na
-na
-CID_027_Athena_Commando_F, 1200
-Pickaxe_ID_224_Butterfly, 500
-EID_KEagle, 500
-EID_Everytime, 700
-CID_356_Athena_Commando_F_Farmer, 800
-Glider_ID_118_Squishy, 300
+Umbrella_Season_05, 200
+EID_UkuleleTime, 500
+Wrap_085_Beach, 500
+Trails_ID_063_BeachBalls, 300
+EID_AfroHouse, 500
+Pickaxe_ID_014_WinterCamo, 500
