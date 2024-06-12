@@ -1,7 +1,7 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["Wrap_018_Magma"],
+    "itemGrants": ["AthenaItemWrap:Wrap_018_Magma"],
     "price": 800
   },
   "daily2": {
@@ -21,7 +21,7 @@
     "price": 1200
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_Fresh"],
+    "itemGrants": ["AthenaDance:EID_Popcorn"],
     "price": 800
   },
   "featured1": {
