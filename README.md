@@ -10,4 +10,3 @@ Glider_ID_155_Jellyfish, 800
 EID_Fresh, 800
 CID_453_Athena_Commando_F_GlowBro, 1500
 CID_480_Athena_Commando_F_Bubblegum, 1200
-
