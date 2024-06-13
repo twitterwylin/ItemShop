@@ -1,39 +1,57 @@
 {
-  "//": "BR Item Shop Config",
-  "daily1": {
-    "itemGrants": ["AthenaItemWrap:Wrap_018_Magma"],
-    "price": 800
-  },
-  "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_192_PalmTree"],
-    "price": 800
-  },
-   "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_155_Jellyfish"],
-    "price": 800
-  },
-  "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_453_Athena_Commando_F_GlowBro"],
-    "price": 1500
-  },
-  "daily5": {
-    "itemGrants": ["AthenaCharacter:CID_480_Athena_Commando_F_Bubblegum"],
-    "price": 1200
-  },
-  "daily6": {
-    "itemGrants": ["AthenaDance:EID_Popcorn"],
-    "price": 800
-  },
-  "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_736_Athena_Commando_F_DonutDish"],
-    "price": 1500
-  },
-  "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_737_Athena_Commando_F_DonutPlate"],
-    "price": 1500
-  },
-  "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_020_Keg"],
-    "price": 1200
-  }
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": [
+            "AthenaCharacter:CID_472_Athena_Commando_F_CyberKarate"
+        ],
+        "price": 1200
+    },
+    "daily2": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_328_GalileoRocket_SNC0L"
+        ],
+        "price": 800
+    },
+    "daily3": {
+        "itemGrants": [
+            "AthenaDance:EID_CandyDance"
+        ],
+        "price": 500
+    },
+    "daily4": {
+        "itemGrants": [
+            "AthenaDance:EID_LlamaBell"
+        ],
+        "price": 700
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaCharacter:CID_699_Athena_Commando_F_BrokenHeart"
+        ],
+        "price": 800
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaGlider:Glider_ID_009_CandyCoat"
+        ],
+        "price": 500
+    },
+    "featured1": {
+        "itemGrants": [
+            "AthenaCharacter:CID_135_Athena_Commando_F_Jailbird", "AthenaBackpack:BID_053_JailbirdMale"
+        ],
+        "price": 1500
+    },
+    "featured2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_349_Athena_Commando_M_Banana", "AthenaSkyDiveContrail:Trails_ID_055_Bananas"
+        ],
+        "price": 2500
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaDance:EID_Banana"
+        ],
+        "price": 500
+    }
 }
