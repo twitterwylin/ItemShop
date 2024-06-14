@@ -2,55 +2,55 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_472_Athena_Commando_F_CyberKarate"
+            "AthenaCharacter:CID_021_Athena_Commando_F"
         ],
         "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_328_GalileoRocket_SNC0L"
+            "AthenaPickaxe:Pickaxe_ID_039_TacticalBlack"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_CandyDance"
+            "AthenaDance:EID_KPopDance01"
         ],
-        "price": 500
+        "price": 800
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_LlamaBell"
+            "AthenaDance:EID_JazzDance"
         ],
-        "price": 700
+        "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_699_Athena_Commando_F_BrokenHeart"
+            "AthenaCharacter:CID_734_Athena_Commando_F_BannerRed"
         ],
         "price": 800
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_009_CandyCoat"
+            "AthenaItemWrap:Wrap_065_AssassinSuit01"
         ],
-        "price": 500
+        "price": 600
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_135_Athena_Commando_F_Jailbird", "AthenaBackpack:BID_053_JailbirdMale"
+            "AthenaCharacter:CID_063_Athena_Commando_F_SkiGirl_CAN", "AthenaBackpack:BID_016_SkiGirl_CAN"
         ],
         "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_349_Athena_Commando_M_Banana", "AthenaSkyDiveContrail:Trails_ID_055_Bananas"
+            "AthenaPickaxe:Pickaxe_ID_190_GolfClub"
         ],
-        "price": 2500
+        "price": 500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaDance:EID_Banana"
+            "AthenaGlider:Glider_ID_175_StreetFashionRed"
         ],
         "price": 500
     }
