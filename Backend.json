@@ -2,62 +2,56 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_317_Athena_Commando_M_WinterGhoul"
+            "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
         ],
-        "price": 1500
+        "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_134_Snowman"
+            "AthenaPickaxe:Pickaxe_Flamingo"
         ],
-        "price": 500
+        "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_WindmillFloss"
+            "AthenaDance:EID_CrabDance"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_EngagedWalk"
+            "AthenaDance:EID_RockPaperScissors"
         ],
         "price": 200
     },
     "daily5": {
         "itemGrants": [
-            "AthenaBackpack:BID_191_WinterGhoulMale"
+            "AthenaItemWrap:Wrap_016_CuddleTeam"
         ],
-        "price": 400
+        "price": 300
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Umbrella_Snowflake"
+            "AthenaBackpack:BID_026_Brite"
         ],
-        "price": 1000
+        "price": 600
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_399_Athena_Commando_F_AshtonBoardwalk"
+            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread", "AthenaBackpack:BID_187_GingerbreadFemale"
         ],
         "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_202_AshtonBoardwalk"
+            "AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread", "AthenaBackpack:PetCarrier_006_Gingerbread"
         ],
-        "price": 1000
+        "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaCharacter:CID_400_Athena_Commando_M_AshtonSaltLake"
+            "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H"
         ],
-        "price": 1200
-    },
-    "featured4": {
-        "itemGrants": [
-            "AthenaGlider:Glider_ID_142_AshtonSaltLake"
-        ],
-        "price": 800
+        "price": 0
     }
 }

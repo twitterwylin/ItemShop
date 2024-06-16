@@ -1,12 +1,12 @@
-CID_399_Athena_Commando_F_AshtonBoardwalk, 1500
-Pickaxe_ID_202_AshtonBoardwalk, 1000
-CID_400_Athena_Commando_M_AshtonSaltLake, 1200
-Glider_ID_142_AshtonSaltLake, 800
+CID_048_Athena_Commando_F_HolidayGingerbread, 1500
+CID_049_Athena_Commando_M_HolidayGingerbread, 1500
+Pickaxe_ID_329_GingerbreadCookie1H, 0
 na
 na
-Pickaxe_ID_134_Snowman, 500
-Umbrella_Snowflake, 400
-EID_WindmillFloss, 500
-EID_EngagedWalk, 200
-BID_191_WinterGhoulMale, 400
-CID_317_Athena_Commando_M_WinterGhoul, 1500
+na
+BID_026_Brite, 600
+Wrap_016_CuddleTeam, 300
+EID_RockPaperScissors, 200
+EID_CrabDance, 500
+Pickaxe_Flamingo, 800
+CID_044_Athena_Commando_F_SciPop, 1200
